@@ -92,7 +92,7 @@ This gives you:
 ### ✨ Unconditional DDPM Samples
 ![Unconditional Samples](./sample_ddpm_output.png)
 
-### 🎯 Classifier-Guided Samples (Digit: 1)
+### 🎯 Classifier-Guided Samples (Digit: 3)
 ![Guided Samples](./guided_output.png)
 
 ---
