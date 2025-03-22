@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.24.0
+matplotlib
+scikit-learn
+numpy
